@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello, greetings. 👋
+
+[![Medium Badge](https://img.shields.io/badge/-@gopal.mudundi-000000?style=for-the-badge&logo=Medium&link=https://medium.com/@gopal.mudundi)](https://medium.com/@gopal.mudundi)
+[![Outlook Badge](https://img.shields.io/badge/-@gopal.mudundi-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:gopal.mudundi@outlook.com)](mailto:gopal.mudundi@outlook.com)
 
 <!--
 **gmudundi/gmudundi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
