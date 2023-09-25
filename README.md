@@ -1,7 +1,5 @@
-# Hello, greetings. 👋
-
-[![Medium Badge](https://img.shields.io/badge/-@gopal.mudundi-000000?style=for-the-badge&logo=Medium&link=https://medium.com/@gopal.mudundi)](https://medium.com/@gopal.mudundi)
-[![Outlook Badge](https://img.shields.io/badge/-@gopal.mudundi-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:gopal.mudundi@outlook.com)](mailto:gopal.mudundi@outlook.com)
+# Hello!
+I'm Gopala Krishna, but you can simply refer to me as Gopal. Presently, I'm working in DevOps Domain, which is an extension of the build and release management field. When it comes to tackling problems, I often find myself brainstorming multiple solutions. GitHub seems like an ideal platform to archive these ideas that cross my mind and release them into the digital realm. It would also be an ideal place for me to further research and refine those solutions that I am particularly keen on perfecting.
 
 <!--
 **gmudundi/gmudundi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
