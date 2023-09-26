@@ -5,6 +5,7 @@ I'm Gopala Krishna, but you can simply refer to me as Gopal. Presently, I'm work
 ### 🎖️ Certifications
 
 ### 📕️ My Publications
+![Gopala's blog](https://github-read-medium.vercel.app/latest?username=gopal.mudundi&limit=6&theme=nord)
 
 <details>     
 <summary>GitHub Stats</summary>
