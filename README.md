@@ -26,7 +26,7 @@ I'm Gopala Krishna, but you can simply refer to me as Gopal. Presently, I'm work
 </p>
 </details>
 <details>
-<summary>Code types</summary>
+<summary>GitHub Code types</summary>
 <p align="center1">     
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmudundi&show_icons=true&layout=compact&theme=nord&count_private=truecount_private=true" alt="Gopala's github stats"/>     
     <br>
