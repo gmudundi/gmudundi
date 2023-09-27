@@ -11,7 +11,7 @@ I'm Gopala Krishna, but you can simply refer to me as Gopal. Presently, I'm work
 <a><img align="left" width="26px" alt="python icon" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></a>
 <a><img align="left" width="26px" alt="jenkins icon" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png"></a>
 <a><img align="left" width="26px" alt="groovy icon" src="https://raw.githubusercontent.com/github/explore/master/topics/groovy/groovy.png"></a>
-<a><img align="left" width="26px" alt="ansible icon" src="https://raw.githubusercontent.com/github/explore/master/topics/ansible/ansible.png"></a>
+<a><img height="40" alt="ansible icon" src="https://raw.githubusercontent.com/github/explore/master/topics/ansible/ansible.png"></a>
 <br />
 
 ### 🎖️ Certifications
