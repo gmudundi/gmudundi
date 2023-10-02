@@ -19,7 +19,7 @@ I'm Gopala Krishna, but you can simply refer to me as Gopal. Presently, I'm work
 ### 🎖️ Certifications
 
 ### 📕️ My Publications
-![Gopala's blog](https://github-read-medium.vercel.app/latest?username=gopal.mudundi&limit=6&theme=nord)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gopal.mudundi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gopal.mudundi/0" alt="Recent article #1"></a>
 
 <details>     
 <summary>GitHub Stats</summary>
@@ -38,7 +38,6 @@ I'm Gopala Krishna, but you can simply refer to me as Gopal. Presently, I'm work
 
 <span style="display:inline-block; width: 10px;"></span>
 
-![Gopala's blog](https://github-read-medium.vercel.app/latest?username=gopal.mudundi&limit=6&theme=nord)
 
 <!--
 **gmudundi/gmudundi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
