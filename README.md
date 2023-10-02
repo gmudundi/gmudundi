@@ -1,5 +1,7 @@
 ReadMe.md
-# Hello!
+
+![MasterHead](https://github.com/gmudundi/gmudundi/blob/48ed80938df9976e8a009d51ee84d800b1e130ad/assets/BlueBanner.png)
+
 I'm Gopala Krishna, but you can simply refer to me as Gopal. Presently, I'm working in DevOps and Cloud Domain, which is an extension of the build, release, and infrastructure management. When it comes to tackling problems, I often find myself brainstorming multiple solutions. GitHub seems like an ideal platform to archive these ideas that cross my mind and release them into the digital realm. It would also be an ideal place for me to further research and refine those solutions that I am particularly keen on perfecting.
 
 ### 🌱 Tools & Technologies 
