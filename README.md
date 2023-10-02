@@ -19,8 +19,12 @@ I'm Gopala Krishna, but you can simply refer to me as Gopal. Presently, I'm work
 ### 🎖️ Certifications
 
 ### 📕️ My Publications
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gopal.mudundi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gopal.mudundi/0" alt="Recent article #1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gopal.mudundi/0"><img align="left" width="626px" src="https://github-readme-medium-recent-article.vercel.app/medium/@gopal.mudundi/0" alt="Recent article #1"></a>
 
+<br>
+<br>
+<br>
+<br>
 <details>     
 <summary>GitHub Stats</summary>
 <p align="center1">     
