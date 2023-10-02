@@ -25,6 +25,8 @@ I'm Gopala Krishna, but you can simply refer to me as Gopal. Presently, I'm work
 <br>
 <br>
 <br>
+<be>
+<br>
 <details>     
 <summary>GitHub Stats</summary>
 <p align="center1">     
